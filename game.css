@@ -1,0 +1,12 @@
+body {
+    background-image: linear-gradient(indigo, teal, skyblue);
+
+}
+
+input {
+    color: skyblue;
+}
+
+h4 {
+    color: white; 
+}
